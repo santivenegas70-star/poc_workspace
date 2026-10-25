@@ -1,0 +1,6 @@
+[*] Iniciando validación de cadena completa en entorno controlado...
+[+] Memoria ejecutable WASM reservada correctamente.
+[+] Alineación de heap y canal IPC completada.
+[+] Optimización JIT forzada.
+[***] Primitivas AAR/AAW operativas y sincronizadas.
+[+] Resultado de ejecución nativa: 0x19d9c
